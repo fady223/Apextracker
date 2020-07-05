@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb0effd0423e8a1ac4a558a7d286fe2b",
+    "revision": "9935126d30eee401be5373119c4680b1",
     "url": "/Apextracker/index.html"
   },
   {
-    "revision": "592a76e0f569f9daf18f",
-    "url": "/Apextracker/static/css/main.e41cfae0.chunk.css"
+    "revision": "a231c7f659c89c469ceb",
+    "url": "/Apextracker/static/css/main.d3e2f364.chunk.css"
   },
   {
     "revision": "b44f1765f261054b8d5a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Apextracker/static/js/2.3a1718f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "592a76e0f569f9daf18f",
-    "url": "/Apextracker/static/js/main.26c77202.chunk.js"
+    "revision": "a231c7f659c89c469ceb",
+    "url": "/Apextracker/static/js/main.819bb6f8.chunk.js"
   },
   {
     "revision": "a66b6374c0873b95eda1",

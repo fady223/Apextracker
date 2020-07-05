@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Apextracker/static/css/main.e41cfae0.chunk.css",
-    "main.js": "/Apextracker/static/js/main.26c77202.chunk.js",
-    "main.js.map": "/Apextracker/static/js/main.26c77202.chunk.js.map",
+    "main.css": "/Apextracker/static/css/main.d3e2f364.chunk.css",
+    "main.js": "/Apextracker/static/js/main.819bb6f8.chunk.js",
+    "main.js.map": "/Apextracker/static/js/main.819bb6f8.chunk.js.map",
     "runtime-main.js": "/Apextracker/static/js/runtime-main.33890703.js",
     "runtime-main.js.map": "/Apextracker/static/js/runtime-main.33890703.js.map",
     "static/js/2.3a1718f5.chunk.js": "/Apextracker/static/js/2.3a1718f5.chunk.js",
     "static/js/2.3a1718f5.chunk.js.map": "/Apextracker/static/js/2.3a1718f5.chunk.js.map",
     "index.html": "/Apextracker/index.html",
-    "precache-manifest.c9ad465317cff10415ec37f48102af6c.js": "/Apextracker/precache-manifest.c9ad465317cff10415ec37f48102af6c.js",
+    "precache-manifest.e7548636fcbcf570bb03a470517fc66d.js": "/Apextracker/precache-manifest.e7548636fcbcf570bb03a470517fc66d.js",
     "service-worker.js": "/Apextracker/service-worker.js",
-    "static/css/main.e41cfae0.chunk.css.map": "/Apextracker/static/css/main.e41cfae0.chunk.css.map",
+    "static/css/main.d3e2f364.chunk.css.map": "/Apextracker/static/css/main.d3e2f364.chunk.css.map",
     "static/js/2.3a1718f5.chunk.js.LICENSE.txt": "/Apextracker/static/js/2.3a1718f5.chunk.js.LICENSE.txt",
     "static/media/apex-legends-icon.png": "/Apextracker/static/media/apex-legends-icon.1f310d75.png"
   },
   "entrypoints": [
     "static/js/runtime-main.33890703.js",
     "static/js/2.3a1718f5.chunk.js",
-    "static/css/main.e41cfae0.chunk.css",
-    "static/js/main.26c77202.chunk.js"
+    "static/css/main.d3e2f364.chunk.css",
+    "static/js/main.819bb6f8.chunk.js"
   ]
 }
